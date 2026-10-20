@@ -1,0 +1,12 @@
+{
+  "name": "member-plus-api",
+  "version": "1.0.0",
+  "description": "Member Plus project API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
